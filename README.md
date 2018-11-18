@@ -1,7 +1,7 @@
 # A Deep Learning Approach to Author Obfuscation
 *All resources, papers, besides useful links and some codes.*
 
-Here the [slides](https://github.com/ozgurozdemir/deep-learning-approach-author-obfuscation/blob/master/README.md).
+Here the [slides](https://github.com/ozgurozdemir/deep-learning-approach-author-obfuscation/blob/master/A_Deep_Learning_Approach_To_Author_Obfuscation.pdf).
 
 ## Papers
 
